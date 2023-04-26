@@ -14,11 +14,30 @@
     color: #828485 !important;
 }
 
+.btn-secondary{
+    background-color: #f8f9fa !important;
+    border-color: #3A468C !important;
+    color: #3A468C !important;
+}
+
 .btn-secondary:hover{
     background-color: #3A468C !important;
     border-color: #3A468C !important;
+    color: #f8f9fa!important;
 }
 
 .bg-muted{
-    background-color: #e4e3e3 !important;
+    background-color: #f8f9fa !important;
+}
+
+.btn-primary{
+    border: 1px solid #828485 !important;
+    background-color: #fff !important;
+    color: #828485 !important;
+}
+
+.btn-primary:hover{
+    border: 1px solid #D85A34 !important;
+    background-color: #f8f9fa  !important;
+    color:  #D85A34 !important;
 }
